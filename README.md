@@ -1,2 +1,2 @@
 # apnacollege-demo
-Author - Annapurna 
+Author - Annapurna S
